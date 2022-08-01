@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><?php echo getenv('SITENAME') ?> - You will be redirected shortly...</title>
-    <meta http-equiv="refresh" content="0;URL='<?php echo getenv('SITEURL') ?>'" />
+    <title><?php echo getenv('Holy Unblocker, From Rift') ?> - You will be redirected shortly...</title>
+    <meta http-equiv="refresh" content="0;URL='<?php echo getenv('https://solo.to/holyunblocker') ?>'" />
   </head>
   <body>
-    <p>Please visit the official <?php echo getenv('SITENAME') ?> site at <a href="<?php echo getenv('SITEURL') ?>"><?php echo getenv('SITEURL') ?></a>.</p>
+    <p>Please visit the official <?php echo getenv('Holy Unblocker, From Rift') ?> site at <a href="<?php echo getenv('https://solo.to/holyunblocker') ?>"><?php echo getenv('https://solo.to/holyunblocker') ?></a>.</p>
   </body>
 </html>
